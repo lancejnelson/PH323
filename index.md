@@ -1,5 +1,5 @@
 ---
-title: "PH123 - Principles of Physics II"
+title: "PH121 - Principles of Physics I"
 keywords: sample homepage
 tags: [landing_page]
 sidebar: mydoc_sidebar
