@@ -1,5 +1,5 @@
 ---
-title: "PH121 - An Introduction to Newtonian Mechanics"
+title: "PH123 - Principles of Physics II"
 keywords: sample homepage
 tags: [landing_page]
 sidebar: mydoc_sidebar
