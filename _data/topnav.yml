@@ -15,13 +15,13 @@ topnav_dropdowns:
     - title: Classes
       folderitems:
         - title: PH121
-          external_url: https://talk.jekyllrb.com
+          external_url: https://byuiphysics.github.io/PH121
         - title: PH123
-          external_url: http://jekyllrb.com/docs/home/
+          external_url: https://byuiphysics.github.io/PH123
         - title: PH323
-          external_url: http://stackoverflow.com/questions/tagged/jekyll
+          external_url: https://byuiphysics.github.io/PH323
         - title: PH385
-          external_url: http://idratherbewriting.com/category-jekyll/
+          external_url: https://byuiphysics.github.io/PH385
     - title: Resources
       folderitems:
         - title: Python
