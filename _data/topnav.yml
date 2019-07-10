@@ -1,0 +1,32 @@
+## Topnav single links
+## if you want to list an external url, use external_url instead of url. the theme will apply a different link base.
+topnav:
+- title: Topnav
+  items:
+    - title: BYU-I Physics
+      external_url: https://www.byui.edu/physics
+    - title: Research Opportunities
+      url: /research
+
+#Topnav dropdowns
+topnav_dropdowns:
+- title: Topnav dropdowns
+  folders:
+    - title: Classes
+      folderitems:
+        - title: PH121
+          external_url: https://talk.jekyllrb.com
+        - title: PH123
+          external_url: http://jekyllrb.com/docs/home/
+        - title: PH323
+          external_url: http://stackoverflow.com/questions/tagged/jekyll
+        - title: PH385
+          external_url: http://idratherbewriting.com/category-jekyll/
+    - title: Resources
+      folderitems:
+        - title: Python
+          url: /mydoc_introduction.html
+        - title: Mathematica
+          url: /p1_landing_page.html
+        - title: Bash
+          url: /p2_landing_page.html
