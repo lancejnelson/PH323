@@ -44,6 +44,10 @@ entries:
       url: /slides.html
       output: web, pdf
 
+    - title: Equation Sheet
+      url: /files\/equation_sheet.pdf
+      output: web, pdf
+
     - title: Numerical
       url: /numerical.html
       output: web, pdf
