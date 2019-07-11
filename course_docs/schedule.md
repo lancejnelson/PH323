@@ -14,6 +14,6 @@ folder: course_docs
 [Download PDF][download]
 {% include image.html file="schedule.png" url="/images/schedule.pdf"  %}
 
-[download]: ../images/schedule.pdf
+[download]: /images\/schedule.pdf
 
 
