@@ -24,7 +24,7 @@ topnav_dropdowns:
           external_url: https://byuiphysics.github.io/PH385
     - title: Resources
       folderitems:
-        - title: Python
+        - title: Python Book
           external_url: https://byuiphysics.github.io/pythonbook 
         - title: Mathematica
           url: /p1_landing_page.html
