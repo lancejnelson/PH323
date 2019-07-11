@@ -26,6 +26,8 @@ topnav_dropdowns:
       folderitems:
         - title: Python Book
           external_url: https://byuiphysics.github.io/pythonbook 
+        - title: Installing Python
+          url: /installingPython.html
         - title: Mathematica
           url: /p1_landing_page.html
         - title: Bash

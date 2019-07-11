@@ -49,6 +49,9 @@ entries:
       output: web, pdf
 
     - title: Numerical
-      url: /numerical.html
+      url: /hexbin.html
       output: web, pdf
 
+    - title: Apptitude Quiz
+      url: https://byui.instructure.com\/courses\/58656\/quizzes\/829691
+      output: web, pdf
