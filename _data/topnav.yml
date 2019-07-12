@@ -28,7 +28,5 @@ topnav_dropdowns:
           external_url: https://byuiphysics.github.io/pythonbook 
         - title: Installing Python
           url: /installingPython.html
-        - title: PH385 Lab Manual
-          external_url: https://byuiphysics.github.io/PH385Book 
         - title: Bash
           url: /p2_landing_page.html
