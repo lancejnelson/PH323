@@ -12,6 +12,9 @@ topnav:
 topnav_dropdowns:
 - title: Topnav dropdowns
   folders:
+    - title: Physics Major
+      folderitems:
+        - title: Computational Emphasis
     - title: Classes
       folderitems:
         - title: PH121
@@ -27,7 +30,7 @@ topnav_dropdowns:
         - title: Python Book
           external_url: https://byuiphysics.github.io/pythonbook 
         - title: Installing Python
-          url: /installingPython.html
+          external_url: https://byuiphysics.github.io/main/installingPython.html
         - title: Bash
           url: /p2_landing_page.html
         - title: PH385 Lab Manual
