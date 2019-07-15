@@ -147,13 +147,24 @@ help determine what your error was.
 ### Homework Assignments (ponder and prove) - 25%
 
 Homework assignments are given on a weekly basis and are due at the
-beginning of class every Tuesday. Each assigned problem will carry a
-point value of 1, 2, or 3 points depending on the level of difficulty
-and estimated completion time. To receive full credit for your
-assignment you must choose enough problems so that the points sum to
-25 or greater. This means that you are not required to complete all of
-the assigned problems, only those of your choosing up to 25
-points. This model for homework is used for several reasons:
+beginning of class every Tuesday. There are two components to HW
+assignments: a written portion and a numerical portion.  The written
+portion of the homework accounts for 15 of the 25 possible points and
+the numerical portion of the homework accounts for the other 10
+points.
+
+#### Written Homework  (15 out of 25 points)
+
+The written portion of your homework consists of
+a set of problems, chosen by you, with point values adding up to 15
+points.  A bank of problems will be categorized and made available to
+you.  Each problem will carry a point value (typically 1, 2, or 3
+points depending on the level of difficulty and estimated completion
+time. To receive full credit for your assignment you must choose
+enough problems so that the points sum to 15 or greater. This means
+that you are not required to complete all of the assigned problems,
+only those of your choosing up to 15 points. This model for homework
+is used for several reasons:
 
 - Giving you the freedom to choose which problems to work on will streamline your workload and help promote efficiency. Some students master certain concepts faster than others and I want those students to have the freedom to move on to other objectives as they see fit.
 - Capping the point value at 25 helps me ensure that the load I am putting on the student is fair and in accordance with the number of course credits. 
@@ -169,7 +180,7 @@ front of each homework assignment.  A side benefit of this system is
 that you are not without your HW for an extended period of time and
 can therefore use it as a reference as needed.
 
-[hwRubric]: https://lancejnelson.github.io/PH121/files/homeworkRubric.pdf
+[hwRubric]: https://lancejnelson.github.io/PH121/files/PH121\ Homework\ Grading\ Rubric.pdf
 
 
 When attacking a problem, practice good problem solving skills: draw
@@ -189,6 +200,20 @@ from a Google search) or allow others to copy your work. If you do get
 help on a homework problem, be sure to learn the strategy, concepts
 and steps used to solve the problem, and think about how they would
 apply to related situations.
+
+#### Numerical Component (10 out of the 25 points)
+
+Several years ago, the physics department as a whole decicded the
+numerical skills needed to be a part of every course in the physics
+curriculum.  To conform with this standard, each week you will be
+given a numerical problem to complete.  These problems can be found on
+the course [website][coursewebsite] and will account for 10/25 weekly
+points for homework.  Use the grading rubric found
+[here][numericalRubric] to grade your performance on these
+assignments.
+
+[coursewebsite]: https://lancejnelson.github.io/PH121
+[numericalRubric]: https://lancejnelson.github.io/PH121/files/PH121\ Numerical\ Grading\ Rubric.pdf
 
 ### Warm-up Quizzes (prepare) - 10%
 
