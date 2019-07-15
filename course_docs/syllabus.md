@@ -12,7 +12,13 @@ folder: course_docs
 
 ## Course Introduction
 
-This course is the first semester in the Principles of Physics sequence. The course is designed for students majoring in the disciplines of science, engineering, and mathematics. The course will cover the following topics: Newton's Laws, linear and circular motion, forces, conservation of energy, conservation of momentum, and gravity. These areas of study are important in a wide variety of engineering and scientific disciplines.
+This course is the first semester in the Principles of Physics
+sequence. The course is designed for students majoring in the
+disciplines of science, engineering, and mathematics. The course will
+cover the following topics: Newton's Laws, linear and circular motion,
+forces, conservation of energy, conservation of momentum, and
+gravity. These areas of study are important in a wide variety of
+engineering and scientific disciplines.
 
 ## Course Materials
 
@@ -29,7 +35,12 @@ Physics][onlineaccess].
 
 ## Course Outcomes
 
-This course focuses on the following five fundamental areas of Newtonian physics: Newton's laws, conservation of energy, conservation of momentum, rotational motion, and orbital motion. Additionally, there is a strong emphasis on graphical and numerical analysis in the context of introductory Newtonian mechanics. Specifically, after taking this course, you should:
+This course focuses on the following five fundamental areas of
+Newtonian physics: Newton's laws, conservation of energy, conservation
+of momentum, rotational motion, and orbital motion. Additionally,
+there is a strong emphasis on graphical and numerical analysis in the
+context of introductory Newtonian mechanics. Specifically, after
+taking this course, you should:
 
 1. have a strong conceptual understanding of Newtonian mechanics.
 2. have strong problem-solving skills.
@@ -45,7 +56,16 @@ This course focuses on the following five fundamental areas of Newtonian physics
 
 You should have already completed or are currently enrolled in MATH 112 (Calculus).
 
- Note: Of necessity, we will use calculus before it is covered in a concurrent MATH 112 class. While concurrent registration of MATH 112 does satisfy the pre-requisite for this class, my experience strongly indicates that those who have completed MATH 112 before taking this class perform better. If you are taking MATH 112 concurrently, I am not encouraging you to drop this class. Rather, you should prepare yourself to learn some calculus in this class before you encounter it in your math class. I am happy to help in this process and I plan to teach the needed math as it presents itself, but you will need to maintain a positive, I-can-learn-new-things attitude to succeed.
+ Note: Of necessity, we will use calculus before it is covered in a
+ concurrent MATH 112 class. While concurrent registration of MATH 112
+ does satisfy the pre-requisite for this class, my experience strongly
+ indicates that those who have completed MATH 112 before taking this
+ class perform better. If you are taking MATH 112 concurrently, I am
+ not encouraging you to drop this class. Rather, you should prepare
+ yourself to learn some calculus in this class before you encounter it
+ in your math class. I am happy to help in this process and I plan to
+ teach the needed math as it presents itself, but you will need to
+ maintain a positive, I-can-learn-new-things attitude to succeed.
 
 ## Schedule
 
@@ -90,22 +110,25 @@ Your grades will be determined according to the following weights:
 ### Weekly quizzes (assessment) - 50%
 
 Quizzes are given on a weekly basis, and can be accessed via
-iLearn. These quizzes will be made available starting on Tuesday and
-closing Friday evening. Content mastery from the previous week's
-objectives as well as the least-mastered objectives from the preceding
-three weeks will be assessed on these quizzes. You will be allowed two
-attempts for weekly quizzes. You are not at any time to consult _the
-book_, the internet, or any other individual. However, because it is a
-take-home assessment, you do have the freedom to take the quiz over a
-time frame of your choosing. If you complete a portion of the quiz and
-want to step away for a nap or a snack before returning, you are free
-to do so. However, you are responsible to ensure that you do not come
-in contact with any information (people, internet, text, etc.) that
-would change how you would respond to a question.
+iLearn. (see [here][quizzesLink] These quizzes will be made available
+starting on Tuesday and closing Friday evening. Content mastery from
+the previous week's objectives as well as the least-mastered
+objectives from the preceding three weeks will be assessed on these
+quizzes. You will be allowed two attempts for weekly quizzes. You are
+not at any time to consult ___the book___, ___the internet___, or any other
+individual. However, because it is a take-home assessment, you do have
+the freedom to take the quiz over a time frame of your choosing. If
+you complete a portion of the quiz and want to step away for a nap or
+a snack before returning, you are free to do so. However, you are
+responsible to ensure that you do not come in contact with any
+information (people, internet, text, etc.) that would change how you
+would respond to a question.
 
 I reserve the right to require you to take the quiz in the testing
 center so it can be proctored by a third party.
 
+
+[quizzesLink]: https://byui.instructure.com/courses/58656/modules
 #### Receiving partial credit
 
 Often, a minor error in your work will result in an incorrect answer
@@ -141,10 +164,13 @@ finish a homework problem, if you have done the problem correctly or
 not.  This will allow you to quickly see which concepts are clicking
 for you and which ones aren't. To help facilitate this I will be
 allowing you to grade your own HW assignments. To do this, you must
-fill out and attach a rubric (found herePreview the document) to the
+fill out and attach a rubric (found [here][hwRubric]) to the
 front of each homework assignment.  A side benefit of this system is
 that you are not without your HW for an extended period of time and
 can therefore use it as a reference as needed.
+
+[hwRubric]: https://lancejnelson.github.io/PH121/files/homeworkRubric.pdf
+
 
 When attacking a problem, practice good problem solving skills: draw
 pictures of the problems, write and solve equations with symbols as
@@ -153,7 +179,9 @@ plenty of space. Substitute units with your numbers into your algebra,
 and check to see that the units work out right on your final
 answer. Think about whether your final answer makes physical sense
 before submitting it.  A guide for how to correctly complete a HW
-problem can be found herePreview the document.
+problem can be found [here][3DBESNUB].
+
+[3DBESNUB]: https://lancejnelson.github.io/PH121/files/2DBESNUB.pdf
 
 You are strongly encouraged to work with other students on homework
 problems; however, don't copy others' work (this includes work found
@@ -162,24 +190,43 @@ help on a homework problem, be sure to learn the strategy, concepts
 and steps used to solve the problem, and think about how they would
 apply to related situations.
 
-### Reading Quizzes (prepare) - 10%
+### Warm-up Quizzes (prepare) - 10%
 
-At the beginning of each lecture(learning) day, you will be given a
-short quiz over the reading material. You will first take the quiz
-individually, and then you will gather in groups and discuss the
-questions collectively. Your group's responses will be graded and
-recorded. You are free to use any hand-written notes from your study
-of the material on these quizzes. The four lowest grades on these
-quizzes will be dropped from your final grade.
+Our discussions on lecture days will include periodic questions that
+you must answer together in groups using the IFAT scratch-off
+system. (they're a lot of fun) Each incorrect scratch will receive a
+$1/4$ point deduction.  These quizzes are not meant to be stressful or
+to pull your grade down significantly.  In my experience, those
+students that come and participate, do well in this grade category.
+Groups will be assigned by the end of the first week and will remain
+unchanged throughout the semester.  If you are having a problem with a
+member of your group and would like a change, please see me privately.
+The four lowest grades on these quizzes will be dropped from your
+final grade.
 
 ### Participation (teach one another) - 10%
 
-On workdays, you will be assigned problems to work on in groups.  If
-you come and engage in the learning process with your group, I will
-hand you a ticket before you leave.  At the end of the semester, you
-will turn in your tickets to receive credit for your participation.
+On workdays, you will be given time to work on homework problems.
+These HW problems are posted on Mastering Physics.  Each day, a
+student from each group will be randomly selected to present the
+solution to a problem to someone that is not a member of the group.
+Once this has been completed, you will be given a ticket.  At the end
+of the semester, you will turn in your tickets to receive credit for
+your participation.
 
 ## Late Work
+
+All assignments are due at the beginning of class on the date marked
+on the schedule. If the due date changes I will notify you in class
+and via email. To allow for emergencies or adding the class late, you
+will get two free late assignments; after that, late work only counts
+for half credit. Late work will only be accepted for two weeks after
+the original due date. No homework assignments will be dropped. When
+turning in late homework please put the word “Late” at the top.
+
+
+## Extra Credit
+
 
 Often students ask for opportunities for extra credit. Here is your
 chance. This opportunity is designed to help you become comfortable

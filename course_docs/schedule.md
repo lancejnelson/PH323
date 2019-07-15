@@ -12,8 +12,8 @@ folder: course_docs
 
 
 [Download PDF][download]
-{% include image.html file="schedule.png" url="https://byuiphysics.github.io/PH121/images/schedule.pdf"  %}
+{% include image.html file="schedule.png" url="https://byuiphysics.github.io/PH121/files/schedule.pdf"  %}
 
-[download]: ../images/schedule.pdf
+[download]: ../files/schedule.pdf
 
 
