@@ -192,7 +192,7 @@ answer. Think about whether your final answer makes physical sense
 before submitting it.  A guide for how to correctly complete a HW
 problem can be found [here][3DBESNUB].
 
-[3DBESNUB]: https://lancejnelson.github.io/PH121/files/2DBESNUB.pdf
+[3DBESNUB]: https://lancejnelson.github.io/PH121/files/3DBESNUB.pdf
 
 You are strongly encouraged to work with other students on homework
 problems; however, don't copy others' work (this includes work found
