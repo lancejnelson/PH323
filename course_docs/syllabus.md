@@ -259,13 +259,9 @@ using a computer in a scientific setting and you'll be asked to put
 away your calculator and use Python to perform all
 calculations. Python is a computer programming language very popular
 among scientists and engineers and this extra credit opportunity is
-designed to give you experience using it. Each student will begin the
-semester with 30 pts of extra credit in the HW category. (That's more
-than one HW assignment) As long as I never catch you using your
-calculator, those points will never go away and at the end of the
-semester you'll receive them as extra credit. Each time I catch you
-using your calculator, you will lose 2 pts. You can obtain a free copy
-of Python here (Links to an external site.).
+designed to give you experience using it.  Here is the offer: For
+every HW assignment in which you only use python for calculations, I
+will award you 1/2% points on the final exam.
 
 ## Teaching Philosophy
 
@@ -305,7 +301,7 @@ the honor code involves:
 [dress]: http://www.byui.edu/catalog/#/policy/SkaRPKHTl?bc=true&bcCurrent=Dress%20and%20Grooming%20Standards&bcGroup=University%20Standards&bcItemType=policies
 
 
-## Disabilities
+### Disabilities
 
 BYU-Idaho does not discriminate against persons with disabilities in providing its educational and administrative services and programs, and follows applicable federal and state law. This policy extends to the University's electronic and information technologies (EIT).
 
@@ -313,7 +309,7 @@ Students with qualifying disabilities should contact the Disability Services Off
 
 [disabilities]: http://www.byui.edu/disability-services
 
-## Sexual Harassment
+### Sexual Harassment
 
 BYU-Idaho prohibits sex discrimination against any participant in its education programs or activities. Prohibited sex discrimination includes incidents of sexual harassment (including sexual violence), dating violence, domestic violence, sexual assault, and stalking (collectively ''sexual misconduct'').
 
