@@ -180,7 +180,7 @@ front of each homework assignment.  A side benefit of this system is
 that you are not without your HW for an extended period of time and
 can therefore use it as a reference as needed.
 
-[hwRubric]: https://lancejnelson.github.io/PH121/files/PH121\ Homework\ Grading\ Rubric.pdf
+[hwRubric]: https://lancejnelson.github.io/PH121/files/PH121_Homework_Grading_Rubric.pdf
 
 
 When attacking a problem, practice good problem solving skills: draw
@@ -213,7 +213,7 @@ points for homework.  Use the grading rubric found
 assignments.
 
 [coursewebsite]: https://lancejnelson.github.io/PH121
-[numericalRubric]: https://lancejnelson.github.io/PH121/files/PH121\ Numerical\ Grading\ Rubric.pdf
+[numericalRubric]: https://lancejnelson.github.io/PH121/files/PH121_Numerical_Grading_Rubric.pdf
 
 ### Warm-up Quizzes (prepare) - 10%
 
