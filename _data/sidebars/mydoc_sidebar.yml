@@ -48,8 +48,16 @@ entries:
       url: /files\/equation_sheet.pdf
       output: web, pdf
 
-    - title: Numerical
-      url: /hexbin.html
+    - title: Written Homework Rubric
+      url: /files\/PH121_Homework_Grading_Rubric.pdf
+      output: web, pdf
+
+    - title: Numerical Homework Rubric
+      url: /files\/PH121_Numerical_Grading_Rubric.pdf
+      output: web, pdf
+
+    - title: Pattern for Written HW Problems
+      url: /files\/3DBESNUB.pdf
       output: web, pdf
 
     - title: Apptitude Quiz
