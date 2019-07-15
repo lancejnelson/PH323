@@ -31,7 +31,7 @@ entries:
       output: web, pdf
       type: homepage
 
-    - title: Schedule
+    - title: Course Schedule
       url: /schedule.html
       output: web, pdf
       type: homepage
