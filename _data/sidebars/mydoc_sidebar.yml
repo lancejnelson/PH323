@@ -23,7 +23,7 @@ entries:
     output: web, pdf
     folderitems:
     - title: Contact Info
-      url: /contact.html
+      external_url: https://web.byui.edu/Directory/Employee/nelsonla 
       output: web, pdf
 
     - title: Syllabus
