@@ -63,3 +63,10 @@ entries:
     - title: Apptitude Quiz
       url: https://byui.instructure.com\/courses\/58656\/quizzes\/829691
       output: web, pdf
+
+  - title: Numerical Problems
+    output: web, pdf
+    folderitems:
+    - title: Week 3 - Vectors
+      url: /files\/numericalHW\/vectors.pdf
+      output: web, pdf
