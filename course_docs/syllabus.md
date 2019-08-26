@@ -13,10 +13,13 @@ folder: course_docs
 ## Course Introduction
 
 This course covers the basics of solid state theory, or matter in it's
-solid form.  Since some students have not yet completed an
-introductory course in quantum mechaninc, and seeing that this topic
-is foundational to our topic, we will spend some time at the beginning
-of the semester covering the basics of quantum mechanics.  Th
+solid form.  Briefly stated, we will study electronic structure,
+phonons, crystal structures and symmetry, metals, insulator,
+semiconductors, heat transfer/capacity, electrical conductivity, and
+x-ray diffraction.  Additionally, since quantum mechanics is an
+essential foundation for us, we will spend some time at the beginning
+of the semester covering the basics of this topic.  This will mostly
+serve as a review.
 
 ## Course Materials
 
@@ -38,31 +41,50 @@ under our site license.
 
 ## Course Outcomes
 
-The diligent student should gain the following skills/understanding in the area of solid state physics:
+The diligent student should gain the following skills/understanding in
+the area of solid state physics:
 
 1. have a strong conceptual understanding of a solid's electronic
 structure, meaning the nature of the electronic states that result
 from a periodic potential.  This topic is a main focus of the class
 and is foundational to other topics that will be studied later in the
-semester. Therefore, a good portion of the semester will be spent on this topics. 
+semester. Therefore, a good portion of the semester will be spent on
+this topics.  Fermi Surface, Bloch functions, density of states,
+Brillioun zone, Band Structure, and Fermi-Dirac distribution function are key ideas.
 
-2. be able to solve quantum mechanical problems numerically using Python.
+2. be able to solve quantum mechanical and classical eigenvalue
+problems numerically using Python and/or Mathematica.  This task will be
+done repeatedly as we start with an atom, then a diatomic molecule,
+and eventually a chain of atoms.  It is the hope of the instructor
+that this approach will help uncover the key physics associated with a
+periodic array of atoms.
 
 3. have a strong conceptual understanding of atomic vibrations (aka
-phonons) in solids.  This is also a foundational topic that will be
-needed for discussions/topics later on in the semester.
+phonons) in solids.  This will be done analytically as well as
+numerically. This is also a foundational topic that will be needed for
+discussions/topics later on in the semester. 
   
-4. be able to describe the physical arrangement of atoms in a solid
-(crystal structure) using terms such as lattice, unit cell,
-Wigner-Sitz, symmetry operators, etc.
+4. be able to use industry(field) standards for describing the physical
+ location of the atoms in a solid.  This requires the competent use of
+ the following terms: lattice, conventional unit cell, Wigner-Sitz
+ unit cell, basis vectors, lattice vectors, symmetry operators, etc.
 
 5. understand the difference between metals, insulators, and
 semiconductors.  Along with this comes a more complete understanding
-of electrical conductivity in solids.
+of electrical conductivity in solids and why some materials conduct
+electricity better than others. Effective mass, holes, doping, and the
+Hall effect are key ideas.
 
-6. demonstrate a strong understanding of semiconductor devices and how they work.
+6. demonstrate a strong understanding of semiconductor devices and how
+they work. Key ideas include, p-n junctions, depletion layer,
+transisitor, diode, Lasers, etc.
 
-7. explain the factors that affect heat transport/capacity in solids.
+7. explain the factors that affect heat transport/capacity in
+solids. Key Ideas include density of modes, and debye model.
+
+8. Understand x-ray diffraction and how it can be used to determine a
+solid's crystal structure.
+
 
 
 ## Prerequisites
@@ -70,29 +92,22 @@ of electrical conductivity in solids.
 Math 316 (differential equations and linear algebra) and PH279 (Modern
 Phyics) are pre-requisite to taking this class.  
 
-## Schedule
-In accordance with the BYU-Idaho learning model, the schedule for this
-class has been designed to give the student opportunities to prepare
-to learn, teach other students, and ponder on previously-covered
-material. This class is scheduled to meet every day. However we will
-only cover new material every other day (lecture days). On lecture
-days you should come prepared to take a warm-up quiz and participate
-in a discussion. Prepared means that you have studied the reading
-material thoroughly and are prepared to teach the concepts that you
-understand and ask clearly-articulated questions regarding the
-concepts that you don't. Our discussions on lecture days will be
-carefully crafted to give you ample opportunity to ask questions and
-teach fellow classmates.  On the days in between lecture days you will
-be split up into groups and each group will be given a homework
-problem to work on at the board. Each group will work together on
-their assigned problem and prepare to teach the rest of the class
-about their problem. I will be there the entire time to guide your
-work and discussion. Your attendance on these days will be crucial to
-your learning experience.  The pattern of reading before class
-(preparing to learn), participating in class discussions (teach one
-another), and group problem solving(ponder and prove) is the
-foundation of the learning model and has shown to provide the
-appropriate learning pace.
+## Schedule 
+
+Lower-level physics courses benefit from easy access to vast libraries
+of practice (homework) problems.  Such is not the case in this course.
+Often, there is only one or two problems on a given topic and
+sometimes those problems are very challenging.  Hence, the standard
+model for a physics class (class time = concept discussion,
+out-of-class = homework time for practice) doesn't always work as well
+here.  When I can employ the standard model, I will.  Other times I
+will use class time to work through a problem with you, stopping
+periodically to let you struggle a little.  This ensures that we all
+achieve the desired result together and **can discuss the key
+takeaways as a group**.  Often, numerical problem be the focus of our
+class discussion, with the intention that the result will shed light
+on the physics we are studying.  I will find a way to incorporate our
+daily scratch-off quiz on these days.
 
 ## Grades
 
@@ -157,20 +172,22 @@ turning in late homework please put the word “Late” at the top.
 
 ## Extra Credit
 
+For those planning to attend graduate school, being able to read a
+publication in your field is super important.  When you first start
+this it can be challenging, bu the more exposure you get to your
+sub-field the easier it becomes.  Below you will find a list of
+publications in my subfield of physics.  To earn this extra credit,
+you should pick one of them and commit to reading and understanding
+the entire thing.  To prove to me that you have, periodically you
+should come to me and show me your highlighting and ask any questions
+that you may have.  (If you claim to not have had any questions, I
+won't believe that you read the article thoroughly.)  
 
-Often students ask for opportunities for extra credit. Here is your
-chance. This opportunity is designed to help you become comfortable
-using a computer in a scientific setting and you'll be asked to put
-away your calculator and use Python to perform all
-calculations. Python is a computer programming language very popular
-among scientists and engineers and this extra credit opportunity is
-designed to give you experience using it.  Here is the offer: For
-every HW assignment in which you only use python for calculations, I
-will award you 1/2% points on the final exam.
+## Teaching
+Philosophy
 
-## Teaching Philosophy
+For me, studying physics is a quest to uncover pure truth and is 
 
-I love studying physics because I feel
 ## University Policies
 
 ### Honor Code
