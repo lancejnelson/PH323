@@ -48,25 +48,22 @@ entries:
       url: /files\/equation_sheet.pdf
       output: web, pdf
 
-    - title: Written Homework Rubric
-      url: /files\/PH121_Homework_Grading_Rubric.pdf
+    - title: Griffith's Chapter 1
+      external_url: https://content.byui.edu/file/51c6f2c7-d1f2-4716-9674-c3bc2de5a273/1/Intro%20to%20Quantum%20Mechanics%20Chapter%201.pdf
       output: web, pdf
 
-    - title: Numerical Homework Rubric
-      url: /files\/PH121_Numerical_Grading_Rubric.pdf
+    - title: Griffith's Chapter 2
+      external_url: https://content.byui.edu/file/51c6f2c7-d1f2-4716-9674-c3bc2de5a273/1/Intro%20to%20Quantum%20Mechanics%20Chapter%202.pdf
       output: web, pdf
 
-    - title: Pattern for Written HW Problems
-      url: /files\/3DBESNUB.pdf
+    - title: Griffith's Chapter 3
+      external_url: https://content.byui.edu/file/51c6f2c7-d1f2-4716-9674-c3bc2de5a273/1/Intro%20to%20Quantum%20Mechanics%20Chapter%203.pdf
       output: web, pdf
 
-    - title: Apptitude Quiz
-      url: https://byui.instructure.com\/courses\/58656\/quizzes\/829691
-      output: web, pdf
 
-  - title: Numerical Problems
+  - title: Homework
     output: web, pdf
     folderitems:
-    - title: Week 3 - Vectors
-      url: /files\/numericalHW\/vectors.pdf
+    - title: Week 1
+      url: 
       output: web, pdf

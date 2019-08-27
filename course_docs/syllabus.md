@@ -101,13 +101,13 @@ sometimes those problems are very challenging.  Hence, the standard
 model for a physics class (class time = concept discussion,
 out-of-class = homework time for practice) doesn't always work as well
 here.  When I can employ the standard model, I will.  Other times I
-will use class time to work through a problem with you, stopping
-periodically to let you struggle a little.  This ensures that we all
-achieve the desired result together and **can discuss the key
-takeaways as a group**.  Often, numerical problem be the focus of our
-class discussion, with the intention that the result will shed light
-on the physics we are studying.  I will find a way to incorporate our
-daily scratch-off quiz on these days.
+will choose a well-designed, yet challenging problem and use class
+time to work through it with you, stopping periodically to let you
+struggle a little.  This ensures that we all achieve the desired
+result together and **can discuss the key takeaways as a group**.
+Often, these problems will require the use of a computer (Mathematica
+or Python) so make sure you bring your laptop with you.  I will find a
+way to incorporate our daily scratch-off quiz on these days.
 
 ## Grades
 
