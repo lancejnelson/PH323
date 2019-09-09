@@ -60,10 +60,24 @@ entries:
       external_url: https://content.byui.edu/file/51c6f2c7-d1f2-4716-9674-c3bc2de5a273/1/Intro%20to%20Quantum%20Mechanics%20Chapter%203.pdf
       output: web, pdf
 
+    - title: Stokes Chapter 1
+      external_url: https://content.byui.edu/file/ceb83761-b291-4202-94a6-eb42747cfa18/1/Stokes_Chap_1.pdf
+      output: web, pdf
+
+    - title: Stokes Chapter 2
+      external_url: https://content.byui.edu/file/ceb83761-b291-4202-94a6-eb42747cfa18/1/Stokes_Chap_2.pdf
+      output: web, pdf
+
+    - title: Stokes Chapter 3
+      external_url: https://content.byui.edu/file/ceb83761-b291-4202-94a6-eb42747cfa18/1/Stokes_Chap_3.pdf
+      output: web, pdf
 
   - title: Homework
     output: web, pdf
     folderitems:
-    - title: Week 1
-      url: 
+    - title: Day 1
+      url: /course_docs\/homework\/day1.pdf
+      output: web, pdf
+    - title: Day 2
+      url: /course_docs\/homework\/day2.pdf
       output: web, pdf
