@@ -23,17 +23,18 @@ serve as a review.
 
 ## Course Materials
 
-The required textbook for this class is:
-***Solid State Physics for Advanced Undergraduates, 4<sup>th</sup> ed., by Harold T. Stokes***  
-We will also use exerpts from the following books:
-- ***Electronic Structure of Materials,  by Adrian P. Sutton***  
-- ***Introduction to Quantum Mechanics, 2<sup>nd</sup> ed., by David J. Griffiths***  
-- ***Modern Physics, 3<sup>rd</sup> ed., by Kenneth Krane***  
+The required textbooks for this class are:
 
-If you'd like to purchase these books, they are good to have.  If not,
-our license allows us to provide a PDF of a small portion of these
-books.  I will make these exerpts available to you via the course
-website.
+***Solid State Physics for Advanced Undergraduates, 4<sup>th</sup> ed., by Harold T. Stokes***  
+***Electronic Structure of Materials,  by Adrian P. Sutton***
+  
+You are encouraged to purchase both of these books.  If the cost
+presents a challenge, please purchase the Sutton book and I will
+provide a PDF of the portion of the Stokes book that we will use.
+
+I will also provide excerpts from the following book:
+- ***Introduction to Quantum Mechanics, 2<sup>nd</sup> ed., by David J. Griffiths***  
+
 
 We will also make extensive use of the python programming language and
 Mathematica software.  Both are available freely to BYU-Idaho students
