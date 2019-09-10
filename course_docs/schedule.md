@@ -20,7 +20,7 @@ Note: For the first few days (probably into the second week) of the semester, we
    - Additinonal/Alternative suggestion for reading: Liboff pg 55 - 56 (If you have already taken Quantum, you should have the Liboff text)
    - Also:  Use Google.  There is plenty of reading out there on this topic.
 
-   - Homework: [Here][day1]
+   - Homework: [here][day_1_hw]
 
 ## Day 2 (Wednesday September 18)
 
@@ -30,7 +30,7 @@ Note: For the first few days (probably into the second week) of the semester, we
 
    - Description: Postulates of QM.  i) Operators as observables.  ii) Measurement changes state of particle.  iii) Expectation values iv) time evolution of state function.  
 
-   - Homework [here][day2]
+   - Homework: [here][day_2_hw]
 
    - Instructor notes:  We'll briefly discuss each postulate and give examples.  For examples, when we talk about operators as observables, let's talk about momentum eigenstates.  Since momentum eigenstates are not normalizable (and therefore unphysical) they can't represent a real physical situation.  Instead, to make it normalizable, we must add many momentum eigenstates together to form a wave packet.  This will naturally lead to the concepts of group and phase velocity, and uncertainty relationships.  Continuing on, we'll solve Schrodinger's equation for an infinte square well (easy), and then explore the other postulates on this situation.   Consider a particle's state (not an eigenstate of the Hamiltonian) and start asking questions like, "What is the probability that measurement of energy leads to E_i, or we can do the same with momentum.
 
