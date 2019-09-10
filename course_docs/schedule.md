@@ -16,7 +16,7 @@ Note: For the first few days (probably into the second week) of the semester, we
 ## Day 1 (Monday September 16)
    - Topic:  After the course overview/introductions we will have a short discussion on the history of quantum mechanics, what a wave-function is, it's stastical interpretation, and how to normalize it.
 
-   - Suggested Reading: Griffiths [1.1, 1.2, and 1.4][griffiths_chp_1]
+   - Suggested Reading: Griffiths [1.1 - 1.4][griffiths_chp_1]
    - Additinonal/Alternative suggestion for reading: Liboff pg 55 - 56 (If you have already taken Quantum, you should have the Liboff text)
    - Also:  Use Google.  There is plenty of reading out there on this topic.
 
@@ -25,7 +25,7 @@ Note: For the first few days (probably into the second week) of the semester, we
 ## Day 2 (Wednesday September 18)
 
    - Topic:  The main pillars of quantum mechanics will be set forth.  Where appropriate, we will do example/homework problems together to help illustrate.
-   - Reading: Griffiths [1.3,1.5,1.6][griffiths_chp_1] and [2.1,2.2][griffiths_chp_2]
+   - Reading: Griffiths [1.5,1.6][griffiths_chp_1] and [2.1,2.2][griffiths_chp_2]
    - Alternative/Supplemental reading: Liboff ch 3.1 - 3.4
 
    - Description: Postulates of QM.  i) Operators as observables.  ii) Measurement changes state of particle.  iii) Expectation values iv) time evolution of state function.  
