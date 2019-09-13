@@ -14,25 +14,31 @@ Below you will find a description for each day of the semester.
 Note: For the first few days (probably into the second week) of the semester, we will be having a review/summary of the main concepts in Quantum Mechanics.  I will provide some suggestions for reading for these days, but you are encouraged to look at the topic and search out your own reading material on that topic.  Quantum Mechanics is not that challenging.  Don't let the name psyche you out... you can do this.
   
 ## Day 1 (Monday September 16)
-   - Topic:  After the course overview/introductions we will have a short discussion on the history of quantum mechanics, what a wave-function is, it's stastical interpretation, and how to normalize it.
+   - Topic:  After the course overview/introductions we will have a short discussion on the history of quantum mechanics, what a wave-function is, it's stastical interpretation, and how to normalize it.  We'll also discuss how to find average values(typically called expectation values in quantum mechanics) from the wavefunction.
 
    - Suggested Reading: Griffiths [1.1 - 1.4][griffiths_chp_1]
-   - Additinonal/Alternative suggestion for reading: Liboff pg 55 - 56 (If you have already taken Quantum, you should have the Liboff text)
-   - Also:  Use Google.  There is plenty of reading out there on this topic.
+   - Additional/Alternative suggestions for reading:  
+     - Liboff pg 55 - 56 (If you have already taken Quantum, you should have the Liboff text)
+     - Your modern physics textbook covers this topic.
+     - Use Google.  There is plenty of reading out there on this topic.
 
    - Homework: [here][day_1_hw]
 
-## Day 2 (Wednesday September 18)
+## Day 2 (Wednesday September 18)  
 
-   - Topic:  The main pillars of quantum mechanics will be set forth.  Where appropriate, we will do example/homework problems together to help illustrate.
+   - Topic:  The main pillars of quantum mechanics will be set forth.  Where appropriate, we will do example/homework problems together to help illustrate.  
    - Reading: Griffiths [1.5,1.6][griffiths_chp_1] and [2.1,2.2][griffiths_chp_2]
    - Alternative/Supplemental reading: Liboff ch 3.1 - 3.4
 
-   - Description: Postulates of QM.  i) Operators as observables.  ii) Measurement changes state of particle.  iii) Expectation values iv) time evolution of state function.  
+   - Description (instructor notes): The main postulates of quantum mechanics are:
+     1. **The state of a quantum mechanical system is completely specified by the wavefunction.**  We learned a little about the wavefunction last time, but we still might not be completely certain how it can possibly contain all of the information we could ever ask for.
+     2. **For every observable in classical physics (position, momentum, energy, etc.) there exists a linear, Hermitian operator in quantum mechanics.**  We'll see examples of the momentum operator and kinetic energy operator and maybe even the total energy operator for some simple choice of potential.  P
+     3. **Measurement of the observable corresponding to operator A will only yield a_i, where a_i are the eigenvalues associated with opertor A.**  Also, this measurement causes a change in the state of the particle to the eigenstate corresponding to the measured eigenvalue.
+     4. **The average (aka expectation) value of any physical observales is set forth.**  Should have already seen this with position, but to get to anything other than position, we have a little calculus to do.  Griffiths does a good job of deriving it.  In the end, the result is simple, the expectation value of any opertor is <n\|A\|n>, where n is the state and A is the operator.
+     5. **The wavefunction evolves in time according the the time-dependent Schrodinger equation.**  Here we should show the separable solution to the time-**dependent** Schrodinger equation.  Then we should go back to the solution to the time-**independent** Schrodinger equation and show how we can time evolve the wavefunction.
 
    - Homework: [here][day_2_hw]
 
-   - Instructor notes:  We'll briefly discuss each postulate and give examples.  For examples, when we talk about operators as observables, let's talk about momentum eigenstates.  Since momentum eigenstates are not normalizable (and therefore unphysical) they can't represent a real physical situation.  Instead, to make it normalizable, we must add many momentum eigenstates together to form a wave packet.  This will naturally lead to the concepts of group and phase velocity, and uncertainty relationships.  Continuing on, we'll solve Schrodinger's equation for an infinte square well (easy), and then explore the other postulates on this situation.   Consider a particle's state (not an eigenstate of the Hamiltonian) and start asking questions like, "What is the probability that measurement of energy leads to E_i, or we can do the same with momentum.
 
 ## Day 3 (Friday September 20)
 

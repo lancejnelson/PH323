@@ -25,8 +25,9 @@ serve as a review.
 
 The required textbooks for this class are:
 
-***Solid State Physics for Advanced Undergraduates, 4<sup>th</sup> ed., by Harold T. Stokes***  
-***Electronic Structure of Materials,  by Adrian P. Sutton***
+***Solid State Physics for Advanced Undergraduates, 4<sup>th</sup> ed., by Harold T. Stokes*** (only available in bookstore)   
+and   
+[***Electronic Structure of Materials,  by Adrian P. Sutton***][suttonbook]
   
 You are encouraged to purchase both of these books.  If the cost
 presents a challenge, please purchase the Sutton book and I will
@@ -40,6 +41,7 @@ We will also make extensive use of the python programming language and
 Mathematica software.  Both are available freely to BYU-Idaho students
 under our site license.
 
+[suttonbook]: https://www.amazon.com/Electronic-Structure-Materials-Science-Publications-ebook/dp/B000TU1NNY/ref=sr_1_1?crid=1533XT4UXV7HB&keywords=electronic+structure+of+materials+sutton&qid=1568396063&s=books&sprefix=Electronic+structure+of+mater%2Cstripbooks%2C183&sr=1-1-catcorr
 ## Course Outcomes
 
 The diligent student should gain the following skills/understanding in
