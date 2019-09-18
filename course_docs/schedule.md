@@ -26,8 +26,8 @@ Note: For the first few days (probably into the second week) of the semester, we
 
 ## Day 2 (Wednesday September 18)  
 
-   - Topic:  The main pillars of quantum mechanics will be set forth.  Where appropriate, we will do example/homework problems together to help illustrate.  
-   - Reading: Griffiths [1.5,1.6][griffiths_chp_1] and [2.1,2.2][griffiths_chp_2]
+   - Topic:  Today we will discuss all but the last postulate of quantum mechanics.  The idea that every observable has a corresponding operator in QM will be discussed.    Expectation values will be defined and examples will be given so you can see how to calculate them. 
+   - Reading: Griffiths [1.5,1.6][griffiths_chp_1]
    - Alternative/Supplemental reading: Liboff ch 3.1 - 3.4
 
    - Description (instructor notes): The main postulates of quantum mechanics are:
@@ -37,26 +37,29 @@ Note: For the first few days (probably into the second week) of the semester, we
      4. **The average (aka expectation) value of any physical observales is set forth.**  Should have already seen this with position, but to get to anything other than position, we have a little calculus to do.  Griffiths does a good job of deriving it.  In the end, the result is simple, the expectation value of any opertor is <n\|A\|n>, where n is the state and A is the operator.
      5. **The wavefunction evolves in time according the the time-dependent Schrodinger equation.**  Here we should show the separable solution to the time-**dependent** Schrodinger equation.  Then we should go back to the solution to the time-**independent** Schrodinger equation and show how we can time evolve the wavefunction.
 
+     Note:  This day may end up spilling over into the next.
+
    - Homework: [here][day_2_hw]
 
 
 ## Day 3 (Friday September 20)
+   - Topic: Properties of Eigenfunctions, Superposition, Basis Sets.
 
    - Reading: Griffiths  2.1 - 2.3
    - Alternative/Supplemental reading: Krane 4.5
 
-   - Description: Hilbert Space, dirac notation, orthonormal sets.
+   - Description: Last time we should have seen that if the initial wavefunction for a system is an eigenfunction of the Hamiltonian, then the time evolution is simple.  We simply multiply the time-independent function by the oscillatory time function.  But what if the initial wavefunction was clearly not an eigvenfunction of the Hamiltonian.  In this case, we need to expand that initial wavefunction in the basis formed by the set of eigenfunctions of the Hamiltonian.  Once we have the set of expansion coefficients, we can simply multipy each term in the expansion by the oscillatory time function.  Most of today will be focused on the infinite square well problem with an initial wavefunction that is not an eigenfunction.  Let's work through all of the concepts and perform all of the calculations together to figure this out.
 
-   - Class Time:  Discussion with scratch-off questions.  We will start our first numerical solution to Schrodinger's equation today.  Don't spend too much time on all the details given in section 2.3.  We will solve this one numerically.
+
 
 ## Day 4 (Monday September 23)
 
+   - Topic: Dirac Notation, Hilbert Spaces.
    - Reading: Griffiths  3.1 - 3.4
    - Alternative/Supplemental reading: Sutton 2.1 ("Reviews of bras, kets, and all that.")
 
-   - Description: Hydrogen Atom, Overview of analytical treatment,  Computational solution using plane-wave basis
+   - Description: Let's learn Dirac Notation (aka bra-ket notation) and apply it.
 
-   - Class Time:  Discussion with scratch-off questions.  We will start our first numerical solution to Schrodinger's equation today.  Don't spend too much time on all the details given in section 2.3.  We will solve this one numerically.
 
 
 ## Day 5 (Wednesday September 25)
