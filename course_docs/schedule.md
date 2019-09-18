@@ -48,7 +48,7 @@ Note: For the first few days (probably into the second week) of the semester, we
    - Reading: Griffiths  2.1 - 2.3
    - Alternative/Supplemental reading: Krane 4.5
 
-   - Description: Last time we should have seen that if the initial wavefunction for a system is an eigenfunction of the Hamiltonian, then the time evolution is simple.  We simply multiply the time-independent function by the oscillatory time function.  But what if the initial wavefunction was clearly not an eigvenfunction of the Hamiltonian.  In this case, we need to expand that initial wavefunction in the basis formed by the set of eigenfunctions of the Hamiltonian.  Once we have the set of expansion coefficients, we can simply multipy each term in the expansion by the oscillatory time function.  Most of today will be focused on the infinite square well problem with an initial wavefunction that is not an eigenfunction.  Let's work through all of the concepts and perform all of the calculations together to figure this out.
+   - Description: So far we have learned what the wavefunctin is, how to normalize it, and how to calculate expectation values for any observable.  Today we will solve the time-independent Schrodinger equation and discuss the unique properties that these functions possess.  The homework problems have been carefully selected to help you see the critical principles in action.  We will also discuss the time evolution of the wavefunction.
 
    - Homework: [here][day_3_hw]
 
