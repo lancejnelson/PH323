@@ -50,6 +50,7 @@ Note: For the first few days (probably into the second week) of the semester, we
 
    - Description: Last time we should have seen that if the initial wavefunction for a system is an eigenfunction of the Hamiltonian, then the time evolution is simple.  We simply multiply the time-independent function by the oscillatory time function.  But what if the initial wavefunction was clearly not an eigvenfunction of the Hamiltonian.  In this case, we need to expand that initial wavefunction in the basis formed by the set of eigenfunctions of the Hamiltonian.  Once we have the set of expansion coefficients, we can simply multipy each term in the expansion by the oscillatory time function.  Most of today will be focused on the infinite square well problem with an initial wavefunction that is not an eigenfunction.  Let's work through all of the concepts and perform all of the calculations together to figure this out.
 
+   - Homework: [here][day_3_hw]
 
 
 ## Day 4 (Monday September 23)
@@ -86,3 +87,4 @@ Note: For the first few days (probably into the second week) of the semester, we
 [griffiths_chp_2]: https://content.byui.edu/file/51c6f2c7-d1f2-4716-9674-c3bc2de5a273/1/Intro%20to%20Quantum%20Mechanics%20Chapter%202.pdf
 [day_1_hw]: https://lancejnelson.github.io/PH323/course_docs/homework/day1.pdf
 [day_2_hw]: https://lancejnelson.github.io/PH323/course_docs/homework/day2.pdf
+[day_3_hw]: https://lancejnelson.github.io/PH323/course_docs/homework/day3.pdf

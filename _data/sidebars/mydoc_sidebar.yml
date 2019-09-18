@@ -85,3 +85,6 @@ entries:
     - title: Day 2
       url: /course_docs\/homework\/day2.pdf
       output: web, pdf
+    - title: Day 3
+      url: /course_docs\/homework\/day3.pdf
+      output: web, pdf
