@@ -189,7 +189,7 @@ won't believe that you read the article thoroughly.)
 ## Teaching
 Philosophy
 
-For me, studying physics is a quest to uncover pure truth and is 
+For me, studying physics is a quest to uncover pure truth
 
 ## University Policies
 

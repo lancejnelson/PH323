@@ -43,7 +43,7 @@ Note: For the first few days (probably into the second week) of the semester, we
 
 
 ## Day 3 (Friday September 20)
-   - Topic: Properties of Eigenfunctions, Superposition, Basis Sets.
+   - Topic: Properties of Eigenfunctions, Superposition, Basis Sets, Completeness, Orthonormality.
 
    - Reading: Griffiths  2.1 - 2.3
    - Alternative/Supplemental reading: Krane 4.5
@@ -55,12 +55,13 @@ Note: For the first few days (probably into the second week) of the semester, we
 
 ## Day 4 (Monday September 23)
 
-   - Topic: Dirac Notation, Hilbert Spaces.
-   - Reading: Griffiths  3.1 - 3.4
-   - Alternative/Supplemental reading: Sutton 2.1 ("Reviews of bras, kets, and all that.")
+   - Topic: Dirac Notation, Matrix Representation of Operator
+   - Reading: Griffiths  3.6
+   - Alternative/Supplemental reading: Sutton 2.1 (Section entitled "Reviews of bras, kets, and all that.")
 
-   - Description: Let's learn Dirac Notation (aka bra-ket notation) and apply it.
+   - Description: Today we will introduce Dirac notation and show how the matrix representation emerges.  We will modify our infinite square well potential to have a "bump" in the bottom of the well and then use the ideal well eigenfunctions as a basis to solve this problem.
 
+   - Homework: [here][day_4_hw]
 
 
 ## Day 5 (Wednesday September 25)
@@ -88,3 +89,4 @@ Note: For the first few days (probably into the second week) of the semester, we
 [day_1_hw]: https://lancejnelson.github.io/PH323/course_docs/homework/day1.pdf
 [day_2_hw]: https://lancejnelson.github.io/PH323/course_docs/homework/day2.pdf
 [day_3_hw]: https://lancejnelson.github.io/PH323/course_docs/homework/day3.pdf
+[day_4_hw]: https://lancejnelson.github.io/PH323/course_docs/homework/day4.pdf
