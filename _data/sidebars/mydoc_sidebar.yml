@@ -91,3 +91,6 @@ entries:
     - title: Day 4
       url: /course_docs\/homework\/day4.pdf
       output: web, pdf
+    - title: Mathematica Notebook from Day 4
+      url: /course_docs\/homework\/day4hw.pdf
+      output: web, pdf
