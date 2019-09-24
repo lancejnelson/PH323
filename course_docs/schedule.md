@@ -59,18 +59,19 @@ Note: For the first few days (probably into the second week) of the semester, we
    - Reading: Griffiths  3.6
    - Alternative/Supplemental reading: Sutton 2.1 (Section entitled "Reviews of bras, kets, and all that.")
 
-   - Description: Today we will introduce Dirac notation and show how the matrix representation emerges.  We will modify our infinite square well potential to have a "bump" in the bottom of the well and then use the ideal well eigenfunctions as a basis to solve this problem.
+   - Description: Today we will introduce Dirac notation and show how the matrix representation emerges.  We will modify our infinite square well potential to have a "bump" in the bottom of the well and then use the ideal well eigenfunctions as a basis to solve this problem.  Mathematica will be used.
 
    - Homework: [here][day_4_hw]
 
 
 ## Day 5 (Wednesday September 25)
 
-   - Reading: Krane 7.3 (Review of Hydrogen Atom) and Sutton 2.1 ("A homonuclear diatomic molecule: the hydrogen molecule.")
+   - Reading: Sutton pgs 10-17 (section on hydrogen atom)
 
-   - Description: Diatomic molecule.  Discuss the analytical treatment from Sutton.  Solve computationally using plane wave basis.
+   - Description: Review day.  Last time we worked on a Mathematica notebook together and used a new method (basis expansion) to solve Schrodinger's equation.  For the first part of today, we'll let you breathe and catch up, making sure you understand what we did last time and to feel prepared to move forward.  If we have time, we'll solve Schroding'er equation for the one-dimensional Hydrogen atom using a plane wave basis.
+ 
+   - Homework: [here][day_5_hw]
 
-   - Class Time:  We will have some discussion about the math used in this section and then we will work on a numerical solution to this problem.
 
 ## Day 6 (Wednesday September 25)
 
@@ -90,3 +91,4 @@ Note: For the first few days (probably into the second week) of the semester, we
 [day_2_hw]: https://lancejnelson.github.io/PH323/course_docs/homework/day2.pdf
 [day_3_hw]: https://lancejnelson.github.io/PH323/course_docs/homework/day3.pdf
 [day_4_hw]: https://lancejnelson.github.io/PH323/course_docs/homework/day4.pdf
+[day_5_hw]: https://lancejnelson.github.io/PH323/course_docs/homework/quantumReview.pdf
