@@ -75,11 +75,11 @@ Note: For the first few days (probably into the second week) of the semester, we
 
 ## Day 6 (Wednesday September 25)
 
-   - Reading: Krane 7.3 (Review of Hydrogen Atom) and Sutton 2.1 ("A homonuclear diatomic molecule: the hydrogen molecule.")
+   - Reading: Sutton Chapter 2 section entitled "A homonuclear diatomic molecule: the hydrogen atom"
 
-   - Description: Time-development of hydrogen molecule.  Analytical treatment.
+   - Description: Today we will step through the analytic solution to Schrodinger's equation for the diatomic molecule.  Then we will solve the problem numerically and see that the solutions match.
 
-   - Class Time:  We will have some discussion about the math used in this section and then we will work on a numerical solution to this problem.
+   - Homework: [here][day_6_hw]
 
 
 
@@ -92,3 +92,4 @@ Note: For the first few days (probably into the second week) of the semester, we
 [day_3_hw]: https://lancejnelson.github.io/PH323/course_docs/homework/day3.pdf
 [day_4_hw]: https://lancejnelson.github.io/PH323/course_docs/homework/day4.pdf
 [day_5_hw]: https://lancejnelson.github.io/PH323/course_docs/homework/quantumReview.pdf
+[day_6_hw]: https://lancejnelson.github.io/PH323/course_docs/homework/day6.pdf
