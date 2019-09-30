@@ -73,16 +73,37 @@ Note: For the first few days (probably into the second week) of the semester, we
    - Homework: [here][day_5_hw]
 
 
-## Day 6 (Wednesday September 25)
+## Day 6 (Friday September 27)
 
    - Reading: Sutton Chapter 2 section entitled "A homonuclear diatomic molecule: the hydrogen atom"
 
    - Description: Today we will step through the analytic solution to Schrodinger's equation for the diatomic molecule.  Then we will solve the problem numerically and see that the solutions match.
 
+   - Homework: None 
+
+## Day 7 (Monday September 30)
+
+   - Reading: None
+
+   - Description: The code we wrote together last time was challenging for some students.  Let's take today and make sure we understand everything that we did.  Once we do understand everything, work on the homework problems.
+
    - Homework: [here][day_6_hw]
 
+## Day 8 (Wednesday October 2)
 
+   - Reading: Sutton Chapter 2, section entitled "Heteronuclear diatomic molecule"
 
+   - Description: Today we will finish up our discussion of the homonuclear diatomic nuclear, talking about the time dependence of the coefficients.  The idea of a "hopping integral" emerges.  Then we will discuss the heteronuclear diatomic molecule and give time to work on the homework assignment
+
+   - Homework: 
+
+## Day 9 (Friday October 4)
+
+   - Reading: Sutton Chapter 3, section entitled "Chain molecules and k-space"
+
+   - Description: 
+
+   - Homework: 
 
 
 [griffiths_chp_1]: https://content.byui.edu/file/51c6f2c7-d1f2-4716-9674-c3bc2de5a273/1/Intro%20to%20Quantum%20Mechanics%20Chapter%201.pdf
