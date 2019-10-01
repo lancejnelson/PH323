@@ -95,7 +95,7 @@ Note: For the first few days (probably into the second week) of the semester, we
 
    - Description: Today we will finish up our discussion of the homonuclear diatomic nuclear, talking about the time dependence of the coefficients.  The idea of a "hopping integral" emerges.  Then we will discuss the heteronuclear diatomic molecule and give time to work on the homework assignment
 
-   - Homework: 
+   - Homework: [here][day_8_hw]
 
 ## Day 9 (Friday October 4)
 
@@ -113,4 +113,6 @@ Note: For the first few days (probably into the second week) of the semester, we
 [day_3_hw]: https://lancejnelson.github.io/PH323/course_docs/homework/day3.pdf
 [day_4_hw]: https://lancejnelson.github.io/PH323/course_docs/homework/day4.pdf
 [day_5_hw]: https://lancejnelson.github.io/PH323/course_docs/homework/quantumReview.pdf
+
 [day_6_hw]: https://lancejnelson.github.io/PH323/course_docs/homework/day6.pdf
+[day_8_hw]: https://lancejnelson.github.io/PH323/course_docs/homework/day8.pdf
