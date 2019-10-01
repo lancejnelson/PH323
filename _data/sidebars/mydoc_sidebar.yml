@@ -51,7 +51,6 @@ entries:
     - title: Equation Sheet
       url: /files\/equation_sheet.pdf
       output: web, pdf
-
     - title: Griffith's Chapter 1
       external_url: https://content.byui.edu/file/51c6f2c7-d1f2-4716-9674-c3bc2de5a273/1/Intro%20to%20Quantum%20Mechanics%20Chapter%201.pdf
       output: web, pdf
@@ -90,6 +89,15 @@ entries:
       output: web, pdf
     - title: Day 4
       url: /course_docs\/homework\/day4.pdf
+      output: web, pdf
+    - title: Day 5 - Review
+      url: /course_docs\/homework\/quantumReview.pdf
+      output: web, pdf
+    - title: Day 7
+      url: /course_docs\/homework\/day6.pdf
+      output: web, pdf
+    - title: Day 8
+      url: /course_docs\/homework\/day8.pdf
       output: web, pdf
 
   - title: Codes
