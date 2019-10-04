@@ -93,7 +93,7 @@ Note: For the first few days (probably into the second week) of the semester, we
 
    - Reading: Sutton Chapter 2, section entitled "Heteronuclear diatomic molecule"
 
-   - Description: Today we will finish up our discussion of the homonuclear diatomic nuclear, talking about the time dependence of the coefficients.  The idea of a "hopping integral" emerges.  Then we will discuss the heteronuclear diatomic molecule and give time to work on the homework assignment
+   - Description: Today we will finish up our discussion of the homonuclear diatomic nuclear, talking about the time dependence of the coefficients.  The idea of a "hopping integral" emerges.  Then we will discuss the heteronuclear diatomic molecule and give time to work on the homework assignment.  Specifically, students will be given time to "fill in the details" on the heteronuclear solution.
 
    - Homework: [here][day_8_hw]
 
@@ -101,7 +101,15 @@ Note: For the first few days (probably into the second week) of the semester, we
 
    - Reading: Sutton Chapter 3, section entitled "Chain molecules and k-space"
 
-   - Description: 
+   - Description: Today we will step through the mathematical derivation of the finite linear chain to see what the coefficients look like.  Then students will be given time to work on their homework.  The homework today asks them to modify their diatomic molecule code to consider any number of identical, even-spaced atoms in a chain.  Begin to see energy bands emerge.
+
+   - Homework: [here][day_9_hw]
+
+## Day 9 (Friday October 4)
+
+   - Reading: Sutton Chapter 3, section entitled "Chain molecules and k-space".  Reread if necessary, but we will pick up on page 44 where we do the infinite chain and discover bloch functions.
+
+   - Description: Extend the finite linear chain to an infinite linear chain and see what the coefficients look like.  Then talk about bloch functions.
 
    - Homework: 
 
@@ -116,3 +124,4 @@ Note: For the first few days (probably into the second week) of the semester, we
 
 [day_6_hw]: https://lancejnelson.github.io/PH323/course_docs/homework/day6.pdf
 [day_8_hw]: https://lancejnelson.github.io/PH323/course_docs/homework/day8.pdf
+[day_9_hw]: https://lancejnelson.github.io/PH323/course_docs/homework/day9.pdf
