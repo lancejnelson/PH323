@@ -105,11 +105,19 @@ Note: For the first few days (probably into the second week) of the semester, we
 
    - Homework: [here][day_9_hw]
 
-## Day 9 (Friday October 4)
+## Day 10 (Monday October 6)
 
    - Reading: Sutton Chapter 3, section entitled "Chain molecules and k-space".  Reread if necessary, but we will pick up on page 44 where we do the infinite chain and discover bloch functions.
 
    - Description: Extend the finite linear chain to an infinite linear chain and see what the coefficients look like.  Then talk about bloch functions.
+
+   - Homework: None
+
+## Day 11 (Wednesday October 8)
+
+   - Reading: Reread Sutton chapter 3 up through page 55. Also read through the derivation located [here][bloch_atomic_basis].
+
+   - Description: Today we will continue building our code for modeling an infinite linear chain of atoms using a 1s,2s atomic orbital basis.
 
    - Homework: 
 
@@ -125,3 +133,4 @@ Note: For the first few days (probably into the second week) of the semester, we
 [day_6_hw]: https://lancejnelson.github.io/PH323/course_docs/homework/day6.pdf
 [day_8_hw]: https://lancejnelson.github.io/PH323/course_docs/homework/day8.pdf
 [day_9_hw]: https://lancejnelson.github.io/PH323/course_docs/homework/day9.pdf
+[bloch_atomic_basis]: https://lancejnelson.github.io/PH323/course_docs/bloch_atomic_orbital_expansion.pdf
