@@ -102,6 +102,9 @@ entries:
     - title: Day 9
       url: /course_docs\/homework\/day9.pdf
       output: web, pdf
+    - title: Day 11
+      url: /course_docs\/homework\/day11.pdf
+      output: web, pdf
 
   - title: Codes
     output: web, pdf
