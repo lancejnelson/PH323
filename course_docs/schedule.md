@@ -105,7 +105,7 @@ Note: For the first few days (probably into the second week) of the semester, we
 
    - Homework: [here][day_9_hw]
 
-## Day 10 (Monday October 6)
+## Day 10 (Monday October 7)
 
    - Reading: Sutton Chapter 3, section entitled "Chain molecules and k-space".  Reread if necessary, but we will pick up on page 44 where we do the infinite chain and discover bloch functions.
 
@@ -113,13 +113,29 @@ Note: For the first few days (probably into the second week) of the semester, we
 
    - Homework: None
 
-## Day 11 (Wednesday October 8)
+## Day 11 (Wednesday October 9)
 
    - Reading: Reread Sutton chapter 3 up through page 55. Also read through the derivation located [here][bloch_atomic_basis].
 
-   - Description: Today we will continue building our code for modeling an infinite linear chain of atoms using a 1s,2s atomic orbital basis.
+   - Description: Today we will continue building our code for modeling an infinite linear chain of atoms using a 1s,2s atomic orbital basis.  Our goal is to understand energy bands, Brillioun zones, and k-space.
 
-   - Homework: 
+   - Homework: [here][day_11_hw]
+
+## Day 12 (Friday October 11)
+
+   - Reading: Stokes section 1.1 - 1.8
+
+   - Description: Lattices and Unit cells is the topic
+
+   - Homework: Stokes problems 1.1,1.3,1.4,1.7
+
+## Day 13 (Monday October 14)
+
+   - Reading: Stokes sections 1.9 - 1.12
+
+   - Description: Crystal Structure
+
+   - Homework: Stokes problems 1.14, 1.15,1.16, 1.18
 
 
 [griffiths_chp_1]: https://content.byui.edu/file/51c6f2c7-d1f2-4716-9674-c3bc2de5a273/1/Intro%20to%20Quantum%20Mechanics%20Chapter%201.pdf
@@ -133,4 +149,5 @@ Note: For the first few days (probably into the second week) of the semester, we
 [day_6_hw]: https://lancejnelson.github.io/PH323/course_docs/homework/day6.pdf
 [day_8_hw]: https://lancejnelson.github.io/PH323/course_docs/homework/day8.pdf
 [day_9_hw]: https://lancejnelson.github.io/PH323/course_docs/homework/day9.pdf
+[day_11_hw]: https://lancejnelson.github.io/PH323/course_docs/homework/day11.pdf
 [bloch_atomic_basis]: https://lancejnelson.github.io/PH323/course_docs/bloch_atomic_orbital_expansion.pdf
