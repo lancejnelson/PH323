@@ -115,7 +115,7 @@ entries:
   - title: Exams
     output: web, pdf
     folderitems:
-    - title: Exam 1 Review
+    - title: Exam 1-Summary of Topics
       url: /course_docs\/exams\/exam_one_Review.pdf
       output: web, pdf
     - title: Exam 1
