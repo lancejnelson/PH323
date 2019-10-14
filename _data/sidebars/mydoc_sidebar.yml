@@ -112,6 +112,9 @@ entries:
     - title: Mathematica Notebook from Day 4
       url: /course_docs\/homework\/day4hw.nb
       output: web, pdf
+    - title: Infinte Linear Chain
+      url: /course_docs\/codes\/one_d_unit_cell_bloch_plane_waves.py
+      output: web, pdf
   - title: Exams
     output: web, pdf
     folderitems:
