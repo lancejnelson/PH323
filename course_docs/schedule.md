@@ -138,6 +138,15 @@ Note: For the first few days (probably into the second week) of the semester, we
    - Homework: Stokes problems 1.14, 1.15,1.16, 1.18
 
 
+## Day 14 (Wednesday October 16)
+
+   - Reading: Stokes sections 1.13 - 1.16
+
+   - Description: Symmetry
+
+   - Homework: Stokes problems 1.21, 1.22, 1.24
+
+
 [griffiths_chp_1]: https://content.byui.edu/file/51c6f2c7-d1f2-4716-9674-c3bc2de5a273/1/Intro%20to%20Quantum%20Mechanics%20Chapter%201.pdf
 [griffiths_chp_2]: https://content.byui.edu/file/51c6f2c7-d1f2-4716-9674-c3bc2de5a273/1/Intro%20to%20Quantum%20Mechanics%20Chapter%202.pdf
 [day_1_hw]: https://lancejnelson.github.io/PH323/course_docs/homework/day1.pdf
