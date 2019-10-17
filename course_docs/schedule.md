@@ -146,6 +146,21 @@ Note: For the first few days (probably into the second week) of the semester, we
 
    - Homework: Stokes problems 1.21, 1.22, 1.24
 
+## Day 15 (Friday October 18)
+
+   - Reading: Stokes sections 1.17 - 1.20
+
+   - Description: Symmetry part II, Bonding
+
+   - Homework: Stokes problems 1.26, 1.29, 1.30
+
+## Day 16 (Monday October 21)
+
+   - Reading: Stokes sections 2.1 - 2.7
+
+   - Description: X-Ray diffraction.  Note: Section 1-3 should be very familiar to you and only needs a brief skim.  2.4-2.7 is where you should focus your attention
+
+   - Homework: Stokes problems 2.7,2.10, 2.12, 2.14
 
 [griffiths_chp_1]: https://content.byui.edu/file/51c6f2c7-d1f2-4716-9674-c3bc2de5a273/1/Intro%20to%20Quantum%20Mechanics%20Chapter%201.pdf
 [griffiths_chp_2]: https://content.byui.edu/file/51c6f2c7-d1f2-4716-9674-c3bc2de5a273/1/Intro%20to%20Quantum%20Mechanics%20Chapter%202.pdf
