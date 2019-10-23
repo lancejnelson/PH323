@@ -20,7 +20,6 @@ folder: course_docs
 [Day 10 - Infinite One-dimensional chain][day10]  
 [Day 11 - Lattices][day11]  
 [Day 12 - Crystal Structure][day12]  
-[Day 13 - Basis Sets][day13]  
 [Day 14 - Symmetry Part I][day14]  
 [Day 15 - Symmetry Part II][day15]  
 [Day 16 - Wave Interference][day16]  
