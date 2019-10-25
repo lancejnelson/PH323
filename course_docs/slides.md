@@ -24,6 +24,7 @@ folder: course_docs
 [Day 15 - Symmetry Part II][day15]  
 [Day 16 - Wave Interference][day16]  
 [Day 17 - X-ray diffraction Part I][day17]  
+[Day 18 - X-ray diffraction Part II][day18]  
 
 [day1]: ../course_docs/slides/Day01_Quantum_Review.pdf
 [day2]: ../course_docs/slides/Day02_Quantum_Review_II.pdf
@@ -39,6 +40,7 @@ folder: course_docs
 [day15]: ../course_docs/slides/D15-Symmetry_II.pdf
 [day16]: ../course_docs/slides/D16-XRD_I.pdf
 [day17]: ../course_docs/slides/D17-XRD_II.pdf
+[day18]: ../course_docs/slides/D17-XRD_III.pdf
 
 
 
