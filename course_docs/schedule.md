@@ -186,6 +186,21 @@ Note: For the first few days (probably into the second week) of the semester, we
 
    - Homework: 3.3
 
+## Day 20 (Wednesday October 30)
+
+   - Reading: Stokes Sections 3.4-3.6
+
+   - Description: Lattice Vibrations: One-D dianatomic lattice
+
+   - Homework: 3.6,3.9
+
+## Day 21 (Friday November 1)
+
+   - Reading: Stokes Chapter 4
+
+   - Description: Classical Model of Metals
+
+   - Homework: 3.3
 
 [griffiths_chp_1]: https://content.byui.edu/file/51c6f2c7-d1f2-4716-9674-c3bc2de5a273/1/Intro%20to%20Quantum%20Mechanics%20Chapter%201.pdf
 [griffiths_chp_2]: https://content.byui.edu/file/51c6f2c7-d1f2-4716-9674-c3bc2de5a273/1/Intro%20to%20Quantum%20Mechanics%20Chapter%202.pdf
