@@ -196,11 +196,13 @@ Note: For the first few days (probably into the second week) of the semester, we
 
 ## Day 21 (Friday November 1)
 
-   - Reading: Stokes Chapter 4
+   - Reading: No new reading. Just make sure you have read (and
+     re-read) through the end of chapter 3
 
-   - Description: Classical Model of Metals
+   - Description: We will extend our discussion of lattice vibrations
+     to include 2d and 3d crystals.
 
-   - Homework: 3.3
+   - Homework: 3.10, 3.11
 
 [griffiths_chp_1]: https://content.byui.edu/file/51c6f2c7-d1f2-4716-9674-c3bc2de5a273/1/Intro%20to%20Quantum%20Mechanics%20Chapter%201.pdf
 [griffiths_chp_2]: https://content.byui.edu/file/51c6f2c7-d1f2-4716-9674-c3bc2de5a273/1/Intro%20to%20Quantum%20Mechanics%20Chapter%202.pdf
