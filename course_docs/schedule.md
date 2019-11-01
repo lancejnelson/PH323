@@ -204,6 +204,9 @@ Note: For the first few days (probably into the second week) of the semester, we
 
    - Homework: 3.10, 3.11
 
+   - [Survey Link][survey]
+
+
 [griffiths_chp_1]: https://content.byui.edu/file/51c6f2c7-d1f2-4716-9674-c3bc2de5a273/1/Intro%20to%20Quantum%20Mechanics%20Chapter%201.pdf
 [griffiths_chp_2]: https://content.byui.edu/file/51c6f2c7-d1f2-4716-9674-c3bc2de5a273/1/Intro%20to%20Quantum%20Mechanics%20Chapter%202.pdf
 [day_1_hw]: https://lancejnelson.github.io/PH323/course_docs/homework/day1.pdf
@@ -217,3 +220,4 @@ Note: For the first few days (probably into the second week) of the semester, we
 [day_9_hw]: https://lancejnelson.github.io/PH323/course_docs/homework/day9.pdf
 [day_11_hw]: https://lancejnelson.github.io/PH323/course_docs/homework/day11.pdf
 [bloch_atomic_basis]: https://lancejnelson.github.io/PH323/course_docs/bloch_atomic_orbital_expansion.pdf
+[survey]: https://byui.az1.qualtrics.com/jfe/form/SV_7Qyz7DfUi5oJpPv
