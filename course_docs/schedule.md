@@ -206,6 +206,21 @@ Note: For the first few days (probably into the second week) of the semester, we
 
    - [Survey Link][survey]
 
+## Day 22 (Monday November 4)
+
+   - Reading: Stokes chapter 4 and Sutton pgs 131-134
+
+   - Description: Classical model of electrical conduction.
+
+   - Homework: 4.1, 4.4, 4.5,4.7,4.9
+
+## Day 23 (Wednesday November 6)
+
+   - Reading: Skim Stokes Chapter 6 and read Stokes 7.1 - 7.3 and
+     Sutton pgs 135 - 139 thoroughly
+
+   - Description: Free electron quantum model of electrical conduction.
+   - Homework: 
 
 [griffiths_chp_1]: https://content.byui.edu/file/51c6f2c7-d1f2-4716-9674-c3bc2de5a273/1/Intro%20to%20Quantum%20Mechanics%20Chapter%201.pdf
 [griffiths_chp_2]: https://content.byui.edu/file/51c6f2c7-d1f2-4716-9674-c3bc2de5a273/1/Intro%20to%20Quantum%20Mechanics%20Chapter%202.pdf
