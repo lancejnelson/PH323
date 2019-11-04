@@ -124,4 +124,7 @@ entries:
     - title: Exam 1
       url: /course_docs\/exams\/examOne.pdf
       output: web, pdf
+    - title: Exam 2 problem bank
+      url: /course_docs\/exams\/exam2_bank.pdf
+      output: web, pdf
 
