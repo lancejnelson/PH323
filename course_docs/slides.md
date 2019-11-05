@@ -23,8 +23,11 @@ folder: course_docs
 [Day 14 - Symmetry Part I][day14]  
 [Day 15 - Symmetry Part II][day15]  
 [Day 16 - Wave Interference][day16]  
-[Day 17 - X-ray diffraction Part I][day17]  
-[Day 18 - X-ray diffraction Part II][day18]  
+[Day 17 - X-ray diffraction Part II][day17]  
+[Day 18 - X-ray diffraction Part III][day18]  
+[Day 19 - Lattice Vibrations][day19]  
+[Day 20 - The Diatomic Chain][day20]  
+[Day 21 - Lattic Vibrations in 3D][day21]  
 
 [day1]: ../course_docs/slides/Day01_Quantum_Review.pdf
 [day2]: ../course_docs/slides/Day02_Quantum_Review_II.pdf
@@ -40,7 +43,10 @@ folder: course_docs
 [day15]: ../course_docs/slides/D15-Symmetry_II.pdf
 [day16]: ../course_docs/slides/D16-XRD_I.pdf
 [day17]: ../course_docs/slides/D17-XRD_II.pdf
-[day18]: ../course_docs/slides/D17-XRD_III.pdf
+[day18]: ../course_docs/slides/D18-XRD_III.pdf
+[day19]: ../course_docs/slides/D19-Lattice_Vibrations.pdf
+[day20]: ../course_docs/slides/D20-Diatomic_Chain.pdf
+[day21]: ../course_docs/slides/D17-3D_Lattice_Vibrations.pdf
 
 
 
