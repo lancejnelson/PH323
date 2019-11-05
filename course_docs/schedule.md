@@ -227,6 +227,7 @@ Note: For the first few days (probably into the second week) of the semester, we
    - Reading: Stokes Chapter 5
 
    - Description: Experimental techniques for probing phonons in crystals
+
    - Homework: 
 
 ## Day 25 (Monday November 11)
@@ -235,6 +236,7 @@ Note: For the first few days (probably into the second week) of the semester, we
      Sutton pgs 135 - 139 thoroughly
 
    - Description: Free electron quantum model of electrical conduction.
+
    - Homework:
 
 
