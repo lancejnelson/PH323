@@ -208,9 +208,9 @@ Note: For the first few days (probably into the second week) of the semester, we
 
 ## Day 22 (Monday November 4)
 
-   - Reading: 
+   - Reading: None
 
-   - Description: Lattice Vibrations and BZ in 3D cont. 
+   - Description: Lattice Vibrations and FBZ in 3D cont. 
 
    - Homework: 3.15 
 
