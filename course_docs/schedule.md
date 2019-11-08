@@ -228,7 +228,7 @@ Note: For the first few days (probably into the second week) of the semester, we
 
    - Description: Experimental techniques for probing phonons in crystals
 
-   - Homework: 
+   - Homework: 5.3, 5.5, 5.5, 5.6, 5.7
 
 ## Day 25 (Monday November 11)
 
