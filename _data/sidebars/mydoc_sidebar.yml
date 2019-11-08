@@ -124,4 +124,7 @@ entries:
     - title: Exam 2 problem bank
       url: /course_docs\/exams\/exam2_bank.pdf
       output: web, pdf
+    - title: Exam 2 (Due Monday Nov 11 by end of day)
+      url: /course_docs\/exams\/exam2.pdf
+      output: web, pdf
 
