@@ -50,7 +50,7 @@ folder: course_docs
 [day19]: ../course_docs/slides/D19-Lattice_Vibrations.pdf
 [day20]: ../course_docs/slides/D20-Diatomic_Chain.pdf
 [day21]: ../course_docs/slides/D21_3D_Lattice_Vibrations.pdf
-[day22]: ../course_docs/slides/Day22\ Classical\ Conduction.pdf
+[day22]: ../course_docs/slides/D22-Classical-Conduction.pdf
 [day23]: ../course_docs/slides/D23-Waves_and_Particles.pdf
 [day24]: ../course_docs/slides/D24-Free_Electrons.pdf
 
