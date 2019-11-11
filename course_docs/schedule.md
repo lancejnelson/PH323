@@ -239,6 +239,14 @@ Note: For the first few days (probably into the second week) of the semester, we
 
    - Homework:
 
+## Day 26 (Wednesday November 13)
+
+   - Reading: Stokes 7.4 - 7.6
+
+   - Description: Free electron quantum model of electrical conduction.
+
+   - Homework: 7.5, 7.7, 7.8, 7.11, 7.12
+
 
 [griffiths_chp_1]: https://content.byui.edu/file/51c6f2c7-d1f2-4716-9674-c3bc2de5a273/1/Intro%20to%20Quantum%20Mechanics%20Chapter%201.pdf
 [griffiths_chp_2]: https://content.byui.edu/file/51c6f2c7-d1f2-4716-9674-c3bc2de5a273/1/Intro%20to%20Quantum%20Mechanics%20Chapter%202.pdf
