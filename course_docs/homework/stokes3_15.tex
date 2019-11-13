@@ -1,0 +1,210 @@
+\documentclass{article}
+\usepackage{amsmath}
+%\usepackage{pstricks}
+\usepackage{epic}
+\begin{document}
+\pagestyle{empty}
+
+
+
+We seek the phonon dispersion curves for a crystal of Cu (which forms
+an fcc lattice) in the $[110]$ direction in k-space.  A general vector
+that points in that direction is given by:
+\begin{equation}
+  \mathbf{k} = {k\over \sqrt{2}} (\hat{i} + \hat{j})
+\end{equation}
+
+The expression for the force on the atom located at the origin due to
+it's motion and the motion of on of it's neighbors is given by:
+\begin{equation}
+  \mathbf{F} = - \alpha \left[ \mathbf{\hat{R}}\cdot \mathbf{u}(000) -
+  \mathbf{\hat{R}}\cdot \mathbf{u}(\mathbf{R})\right]\mathbf{\hat{R}}
+\end{equation}
+
+Each cu atom has 12 nearest neighbors.  They are located at:
+
+\begin{eqnarray}
+  a({1\over 2}{1\over 2}0) & a({1\over 2}0{1\over 2}) & a(0{1\over 2}{1\over 2})\\ 
+  a(-{1\over 2}{1\over 2}0) & a(-{1\over 2}0{1\over 2}) & a(0-{1\over 2}{1\over 2})\\ 
+  a({1\over 2}-{1\over 2}0) & a({1\over 2}0-{1\over 2}) & a(0{1\over 2}-{1\over 2})\\ 
+  a(-{1\over 2}-{1\over 2}0) & a(-{1\over 2}0-{1\over 2}) & a(0-{1\over 2}-{1\over 2})\\ 
+\end{eqnarray}
+
+
+Let's attack them one at a time.
+
+
+For $\mathbf{r}_n = a({1\over
+  2}{1\over 2}0)$:
+
+\begin{equation}
+  \mathbf{\hat{R}} = {1\over \sqrt{2}} (\hat{i} + \hat{j})
+  \end{equation}
+
+and  assuming
+\begin{align}
+  \mathbf{u}_n &= \mathbf{A}e^{i \mathbf{k} \cdot \mathbf{r}_n - i \omega t}\\
+  &= \mathbf{A}e^{i ({k a\over 2 \sqrt{2}} +{k a\over 2 \sqrt{2}} ) - i \omega t}\\
+  &= \mathbf{A}e^{i ({k a\over \sqrt{2}} ) - i \omega t}\\
+  &= \mathbf{u}(000) e^{i ({k a\over \sqrt{2}} )}\\
+  \end{align}
+
+\begin{align}
+  \mathbf{F} &= - \alpha \left[ \mathbf{\hat{R}}\cdot \mathbf{u}(000) -
+  \mathbf{\hat{R}}\cdot
+  \mathbf{u}(\mathbf{R})\right]\mathbf{\hat{R}}\\
+  &=- \alpha \left[ {1\over \sqrt{2}} (\hat{i} + \hat{j}) \cdot
+    \mathbf{u}(000) - {1\over \sqrt{2}} (\hat{i} + \hat{j}) \cdot
+    \mathbf{u}({1\over 2}{1\over 2}0)\right]{1\over \sqrt{2}}(\hat{i}
+    + \hat{j})\\
+  &=- {\alpha\over 2} \left[ (\hat{i} + \hat{j}) \cdot
+    \mathbf{u}(000) - (\hat{i} + \hat{j}) \cdot
+    \mathbf{u}({1\over 2}{1\over 2}0)\right](\hat{i}
+    + \hat{j})\\
+  &=- {\alpha\over 2} \left[u_x(000) + u_y(000) - u_x(000) e^{i ({k
+    a\over \sqrt{2}} )} - u_y(000)e^{i ({k a\over \sqrt{2}} )} \right](\hat{i}
+    + \hat{j}) \\
+  &=- {\alpha\over 2} \left[ u_x(000)\left( 1 - e^{i ({k
+    a\over \sqrt{2}} )} \right) + u_y(000)\left(1- e^{i ({k a\over \sqrt{2}} )}\right) \right](\hat{i}
+    + \hat{j}) \label{eq:F1}\\
+\end{align}
+
+
+
+For $\mathbf{r}_n = a(-{1\over
+  2}{1\over 2}0)$:
+
+\begin{equation}
+  \mathbf{\hat{R}} = {1\over \sqrt{2}} (-\hat{i} + \hat{j})
+  \end{equation}
+
+and  assuming
+\begin{align}
+  \mathbf{u}(-{1\over  2}{1\over 2}0) &= \mathbf{A}e^{i \mathbf{k} \cdot \mathbf{r}_n - i \omega t}\\
+  &= \mathbf{A}e^{i ({-k a\over 2 \sqrt{2}} +{k a\over 2 \sqrt{2}} ) - i \omega t}\\
+  &= \mathbf{A}e^{i 0 - i \omega t}\\
+  &= \mathbf{u}(000) \\
+  \end{align}
+
+\begin{align}
+  \mathbf{F} &= - \alpha \left[ \mathbf{\hat{R}}\cdot \mathbf{u}(000) -
+  \mathbf{\hat{R}}\cdot
+  \mathbf{u}(\mathbf{R})\right]\mathbf{\hat{R}}\\
+  &=- \alpha \left[ {1\over \sqrt{2}} (-\hat{i} + \hat{j}) \cdot
+    \mathbf{u}(000) - {1\over \sqrt{2}} (-\hat{i} + \hat{j}) \cdot
+    \mathbf{u}(-{1\over 2}{1\over 2}0)\right]{1\over \sqrt{2}}(-\hat{i}
+    + \hat{j})\\
+  &=- {\alpha\over 2} \left[ (-\hat{i} + \hat{j}) \cdot
+    \mathbf{u}(000) - (-\hat{i} + \hat{j}) \cdot
+    \mathbf{u}(-{1\over 2}{1\over 2}0)\right](-\hat{i}
+    + \hat{j})\\
+  &=- {\alpha\over 2} \left[-u_x(000) + u_y(000) + u_x(000) - u_y(000) \right](-\hat{i}
+    + \hat{j}) \label{eq:F2}\\
+  &= 0
+\end{align}
+
+
+For $\mathbf{r}_n = a({1\over
+  2}-{1\over 2}0)$:
+
+\begin{equation}
+  \mathbf{\hat{R}} = {1\over \sqrt{2}} (\hat{i} - \hat{j})
+  \end{equation}
+
+and  assuming
+\begin{align}
+  \mathbf{u}({1\over  2}-{1\over 2}0) &= \mathbf{A}e^{i \mathbf{k} \cdot \mathbf{r}_n - i \omega t}\\
+  &= \mathbf{A}e^{i ({k a\over 2 \sqrt{2}} -{k a\over 2 \sqrt{2}} ) - i \omega t}\\
+  &= \mathbf{A}e^{i 0 - i \omega t}\\
+  &= \mathbf{u}(000) \\
+  \end{align}
+
+\begin{align}
+  \mathbf{F} &= - \alpha \left[ \mathbf{\hat{R}}\cdot \mathbf{u}(000) -
+  \mathbf{\hat{R}}\cdot
+  \mathbf{u}(\mathbf{R})\right]\mathbf{\hat{R}}\\
+  &=- \alpha \left[ {1\over \sqrt{2}} (\hat{i} - \hat{j}) \cdot
+    \mathbf{u}(000) - {1\over \sqrt{2}} (\hat{i} - \hat{j}) \cdot
+    \mathbf{u}({1\over 2}-{1\over 2}0)\right]{1\over \sqrt{2}}(\hat{i}
+    - \hat{j})\\
+  &=- {\alpha\over 2} \left[ (\hat{i} - \hat{j}) \cdot
+    \mathbf{u}(000) - (\hat{i} - \hat{j}) \cdot
+    \mathbf{u}({1\over 2}-{1\over 2}0)\right](\hat{i}
+    - \hat{j})\\
+  &=- {\alpha\over 2} \left[u_x(000) - u_y(000) - u_x(000) + u_y(000) \right](\hat{i}
+    - \hat{j}) \\
+&=0\\\end{align}
+
+Makes sense since these atoms lie on the same wavefront and so should
+always be in phase with the atom at the origin.
+
+For $\mathbf{r}_n = a(-{1\over
+  2},-{1\over 2},0)$:
+
+\begin{equation}
+  \mathbf{\hat{R}} = {1\over \sqrt{2}} (-\hat{i} - \hat{j})
+  \end{equation}
+
+and  assuming
+\begin{align}
+  \mathbf{u}(-{1\over  2},-{1\over 2},0) &= \mathbf{A}e^{i \mathbf{k} \cdot \mathbf{r}_n - i \omega t}\\
+  &= \mathbf{A}e^{i ({-k a\over 2 \sqrt{2}} -{k a\over 2 \sqrt{2}} ) - i \omega t}\\
+  &= \mathbf{A}e^{i {-k a\over \sqrt{2}} - i \omega t}\\
+  &= \mathbf{u}(000) e^{i {-k a\over \sqrt{2}}} \\
+  \end{align}
+
+\begin{align}
+  \mathbf{F} &= - \alpha \left[ \mathbf{\hat{R}}\cdot \mathbf{u}(000) -
+  \mathbf{\hat{R}}\cdot
+  \mathbf{u}(\mathbf{R})\right]\mathbf{\hat{R}}\\
+  &=- \alpha \left[ {1\over \sqrt{2}} (-\hat{i} - \hat{j}) \cdot
+    \mathbf{u}(000) - {1\over \sqrt{2}} (-\hat{i} - \hat{j}) \cdot
+    \mathbf{u}(-{1\over 2},-{1\over 2},0)\right]{1\over \sqrt{2}}(-\hat{i}
+    - \hat{j})\\
+  &=- {\alpha\over 2} \left[ (-\hat{i} - \hat{j}) \cdot
+    \mathbf{u}(000) - (-\hat{i} - \hat{j}) \cdot
+    \mathbf{u}(-{1\over 2},-{1\over 2},0)\right](-\hat{i}
+    - \hat{j})\\
+  &=- {\alpha\over 2} \left[-u_x(000) - u_y(000) + u_x(000) e^{-i {k a\over \sqrt{2}}} + u_y(000) e^{-i {k a\over \sqrt{2}}} \right](-\hat{i}
+    - \hat{j}) \\
+    &=- {\alpha\over 2} \left[ u_x(000)\left( -1 + e^{-i ({k
+    a\over \sqrt{2}} )} \right) + u_y(000)\left(-1+ e^{-i ({k a\over \sqrt{2}} )}\right) \right](-\hat{i}
+    - \hat{j}) \label{eq:F4}\\
+\end{align}
+
+
+For $\mathbf{r}_n = a({1\over
+  2},0,{1\over 2})$:
+
+\begin{equation}
+  \mathbf{\hat{R}} = {1\over \sqrt{2}} (\hat{i} + \hat{k})
+  \end{equation}
+
+and  assuming
+\begin{align}
+  \mathbf{u}({1\over  2},0,{1\over 2}) &= \mathbf{A}e^{i \mathbf{k} \cdot \mathbf{r}_n - i \omega t}\\
+  &= \mathbf{A}e^{i ({k a\over 2 \sqrt{2}} + 0 ) - i \omega t}\\
+  &= \mathbf{A}e^{i {k a\over 2 \sqrt{2}} - i \omega t}\\
+  &= \mathbf{u}(000) e^{i {k a\over 2 \sqrt{2}}} \\
+  \end{align}
+
+\begin{align}
+  \mathbf{F} &= - \alpha \left[ \mathbf{\hat{R}}\cdot \mathbf{u}(000) -
+  \mathbf{\hat{R}}\cdot
+  \mathbf{u}(\mathbf{R})\right]\mathbf{\hat{R}}\\
+  &=- \alpha \left[ {1\over \sqrt{2}} (\hat{i} + \hat{k}) \cdot
+    \mathbf{u}(000) - {1\over \sqrt{2}} (\hat{i} + \hat{k}) \cdot
+    \mathbf{u}({1\over 2},0,{1\over 2})\right]{1\over \sqrt{2}}(\hat{i}
+    + \hat{k})\\
+  &=- {\alpha\over 2} \left[ (\hat{i} + \hat{k}) \cdot
+    \mathbf{u}(000) - (\hat{i} + \hat{k}) \cdot
+    \mathbf{u}({1\over 2},0,{1\over 2})\right](\hat{i}
+    + \hat{k})\\
+  &=- {\alpha\over 2} \left[u_x(000) + u_z(000) - u_x(000) e^{i {k a\over 2\sqrt{2}}} - u_z(000) e^{i {k a\over 2\sqrt{2}}} \right](\hat{i}
+    + \hat{k}) \\
+    &=- {\alpha\over 2} \left[ u_x(000)\left( 1 - e^{i ({k
+    a\over 2\sqrt{2}} )} \right) + u_z(000)\left(1- e^{i ({k a\over 2\sqrt{2}} )}\right) \right](\hat{i}
+    + \hat{k}) \label{eq:F4}\\
+\end{align}
+
+\end{document}

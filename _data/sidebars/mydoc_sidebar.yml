@@ -112,6 +112,17 @@ entries:
     - title: Infinte Linear Chain
       url: /course_docs\/codes\/one_d_unit_cell_bloch_plane_waves.py
       output: web, pdf
+  - title: Helps
+    output: web, pdf
+    folderitems:
+    - title: Stokes Problem 3.15 (tex)
+      url: /course_docs\/homework/stokes3_15.tex
+      output: web,pdf
+
+    - title: Stokes Problem 3.15 (pdf)
+      url: /course_docs\/homework/stokes3_15.pdf
+      output: web,pdf
+
   - title: Exams
     output: web, pdf
     folderitems:
