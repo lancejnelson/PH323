@@ -247,6 +247,13 @@ Note: For the first few days (probably into the second week) of the semester, we
 
    - Homework: 7.5, 7.7, 7.8, 7.11, 7.12
 
+## Day 27 (Friday November 15)
+
+   - Reading: Stokes 8.1 - 8.2
+
+   - Description: Bloch Functions
+
+   - Homework: None
 
 [griffiths_chp_1]: https://content.byui.edu/file/51c6f2c7-d1f2-4716-9674-c3bc2de5a273/1/Intro%20to%20Quantum%20Mechanics%20Chapter%201.pdf
 [griffiths_chp_2]: https://content.byui.edu/file/51c6f2c7-d1f2-4716-9674-c3bc2de5a273/1/Intro%20to%20Quantum%20Mechanics%20Chapter%202.pdf
