@@ -255,6 +255,38 @@ Note: For the first few days (probably into the second week) of the semester, we
 
    - Homework: None
 
+## Day 28 (Monday November 18)
+
+   - Reading: Stokes 8.3 - 8.6
+
+   - Description: Bands, Fermi Surfaces, States per band
+
+   - Homework: 8.5, 8.10, 8.11, 8.13, 8.14
+
+## Day 29 (Wednesday November 20)
+
+   - Reading: Stokes 9.1 - 9.4
+
+   - Description: Electrical Conductivity 
+
+   - Homework: 9.1, 9.2, 9.3, 9.4
+
+## Day 30 (Friday November 22)
+
+   - Reading: Stokes 9.5-9.8
+
+   - Description: Effective mass, holes, Hall Effect
+
+   - Homework: 9.7, 9.8, 9.9, 9.10
+
+## Day 31 (Monday November 25)
+
+   - Reading: Stokes 9.9 - 9.10
+
+   - Description: Landau Level, Cyclotron resonance
+
+   - Homework: 9.12, 9.14
+
 [griffiths_chp_1]: https://content.byui.edu/file/51c6f2c7-d1f2-4716-9674-c3bc2de5a273/1/Intro%20to%20Quantum%20Mechanics%20Chapter%201.pdf
 [griffiths_chp_2]: https://content.byui.edu/file/51c6f2c7-d1f2-4716-9674-c3bc2de5a273/1/Intro%20to%20Quantum%20Mechanics%20Chapter%202.pdf
 [day_1_hw]: https://lancejnelson.github.io/PH323/course_docs/homework/day1.pdf
