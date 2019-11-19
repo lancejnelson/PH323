@@ -265,7 +265,7 @@ Note: For the first few days (probably into the second week) of the semester, we
 
 ## Day 29 (Wednesday November 20)
 
-   - Reading: Stokes 9.1 - 9.4
+   - Reading: Stokes 9.1 - 9.4 and Sutton pages 80-84
 
    - Description: Electrical Conductivity 
 
