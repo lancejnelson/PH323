@@ -285,20 +285,56 @@ Note: For the first few days (probably into the second week) of the semester, we
 
 ## Day 31 (Monday Dec 2)
 
-   - Reading: Stokes 9.9 - 9.10
-
-   - Description: Landau Level, Cyclotron resonance
-
-   - Homework: 9.12, 9.14
-
-## Day 32 (Wednesday Dec 4)
-
-   - Reading: Stokes 10.1 - 10.3
+   - Reading: Stokes 10.1 - 10.4
 
    - Description: Intro to Semiconductors
 
    - Homework: 10.3, 10.7, 10.8
 
+## Day 32 (Wednesday Dec 4)
+   - Reading: Stokes 10.4 - 10.9
+
+   - Description: Doping, Conduction
+
+   - Homework: 10.9, 10.10, 10.11, 10.12, 10.13
+
+
+## Day 33 (Friday Dec 6)
+   - Reading: Stokes 11.1 - 11.6
+
+   - Description: p-n junctions
+
+   - Homework: 11.3 , 11.6, 11.7, 11.9
+
+## Day 34 (Monday Dec 9)
+   - Reading: Stokes 11.7 - 11.9
+
+   - Description: Currents, Biasing, and Capacitance of p-n junction
+
+   - Homework: 11.12,11.13,11.14
+
+
+## Day 35 (Wednesday Dec 11)
+   - Reading: Stokes 12.1 - 12.3
+
+   - Description: Diodes and Transistors
+
+   - Homework: None
+
+
+## Day 35 (Friday Dec 13)
+   - Reading: Stokes 12.4 - 12.8
+
+   - Description: LEDs, Lasers, and Photosensitive devices.
+
+   - Homework: 
+
+## Day 36 (Monday Dec 16)
+   - Reading: Stokes Chapter 14
+
+   - Description: Heat Capacity and Thermal Conductivity
+
+   - Homework: 
 
 [griffiths_chp_1]: https://content.byui.edu/file/51c6f2c7-d1f2-4716-9674-c3bc2de5a273/1/Intro%20to%20Quantum%20Mechanics%20Chapter%201.pdf
 [griffiths_chp_2]: https://content.byui.edu/file/51c6f2c7-d1f2-4716-9674-c3bc2de5a273/1/Intro%20to%20Quantum%20Mechanics%20Chapter%202.pdf
