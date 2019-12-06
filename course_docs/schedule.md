@@ -304,7 +304,7 @@ Note: For the first few days (probably into the second week) of the semester, we
 
    - Description: p-n junctions
 
-   - Homework: 11.3 , 11.6, 11.7, 11.9
+   - Homework: 11.1, 11.3 , 11.6, 11.7, 11.9
 
 ## Day 34 (Monday Dec 9)
    - Reading: Stokes 11.7 - 11.9
