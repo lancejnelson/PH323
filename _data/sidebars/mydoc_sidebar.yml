@@ -138,4 +138,10 @@ entries:
     - title: Exam 2 (Due Monday Nov 11 by end of day)
       url: /course_docs\/exams\/exam2.pdf
       output: web, pdf
+    - title: Exam 3 problem bank
+      url: /course_docs\/exams\/exam3_bank.pdf
+      output: web, pdf
+    - title: Equation Sheet
+      url: /course_docs\/exams\/help_sheet_with_tables.pdf
+      output: web, pdf
 
