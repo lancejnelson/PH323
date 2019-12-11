@@ -144,4 +144,7 @@ entries:
     - title: Equation Sheet
       url: /course_docs\/exams\/help_sheet_with_tables.pdf
       output: web, pdf
+    - title: Exam 3 (Due Saturday Dec 14 by end of day)
+      url: /course_docs\/exams\/exam3.pdf
+      output: web, pdf
 
