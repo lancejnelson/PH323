@@ -31,6 +31,16 @@ folder: course_docs
 [Day 22 - Classical Condution][day22]  
 [Day 23 - Waves and Particles][day23]  
 [Day 24 - Free-Electrons ][day24]  
+[Day 25 - Conductivity ][day25]  
+[Day 26 - Bloch Functions ][day26]  
+[Day 27 - Fermi Surfaces ][day27]  
+[Day 28 - Conduction_Revisited ][day28]  
+[Day 29 - Effective Mass and Hall Effect ][day29]  
+[Day 30 - Intro to Semiconductors ][day30]  
+[Day 31 - Intro to SC cont. ][day31]  
+[Day 32 - PN Junctions ][day32]  
+[Day 33 - PN Junctions cont. ][day33]  
+[Day 34 - Semiconductor Devices ][day34]  
 
 [day1]: ../course_docs/slides/Day01_Quantum_Review.pdf
 [day2]: ../course_docs/slides/Day02_Quantum_Review_II.pdf
@@ -53,6 +63,16 @@ folder: course_docs
 [day22]: ../course_docs/slides/D22-Classical_Conduction.pdf
 [day23]: ../course_docs/slides/D23-Waves_and_Particles.pdf
 [day24]: ../course_docs/slides/D24-Free_Electrons.pdf
+[day25]: ../course_docs/slides/D25-Conductivity.pdf
+[day26]: ../course_docs/slides/D26-Bloch.pdf
+[day27]: ../course_docs/slides/D27-Fermi_Surface.pdf
+[day28]: ../course_docs/slides/D28-Conduction_Revisited.pdf
+[day29]: ../course_docs/slides/D29-Effective_Mass_Hall_Effect.pdf
+[day30]: ../course_docs/slides/D30-Intro_to_Semiconductors.pdf
+[day31]: ../course_docs/slides/D31-Intro_to_Semiconductors_II.pdf
+[day32]: ../course_docs/slides/D32-PN_Junctions.pdf
+[day33]: ../course_docs/slides/D33-PN_Junctions_part_II.pdf
+[day34]: ../course_docs/slides/D34-Semiconductor_devices.pdf
 
 
 
