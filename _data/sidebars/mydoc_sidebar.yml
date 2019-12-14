@@ -147,4 +147,7 @@ entries:
     - title: Exam 3 (Due Saturday Dec 14 by end of day)
       url: /course_docs\/exams\/exam3.pdf
       output: web, pdf
+    - title: Sample Final Exam
+      url: /course_docs\/exams\/SampleFinal.pdf
+      output: web, pdf
 
