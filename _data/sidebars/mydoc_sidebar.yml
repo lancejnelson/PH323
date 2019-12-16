@@ -150,4 +150,7 @@ entries:
     - title: Sample Final Exam
       url: /course_docs\/exams\/SampleFinal.pdf
       output: web, pdf
+    - title: Final Exam
+      url: /course_docs\/exams\/Final.pdf
+      output: web, pdf
 
